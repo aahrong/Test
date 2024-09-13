@@ -1,0 +1,118 @@
+Here's a hierarchical grouping of the topics you've provided:
+
+### 1. **Compliance and Regulation**
+   - Responsible banking compliance for different banking products and services
+   - Compliance for Technology Platform
+   - Compliance for Home Lending and Consumer Lending
+   - Compliance with policies and regulations
+   - Compliance with regulations (FCRA, Reg B, UDAAP)
+   - Compliance with UDAAP
+   - Compliance with Reg D, Reg DD, Reg W
+   - Compliance Program Effectiveness (PE) monitoring
+   - Compliance with regulations for WIM
+   - Compliance with regulation for CL and HL
+   - Compliance with FINRA rules
+   - Regulatory compliance - mortgage loans (Truth in Lending Act, Real Estate Settlement Procedures Act, Fair Credit Reporting Act)
+   - Compliance with ADA (American Disabilities Act)
+   - Compliance monitoring activities (CMS, CL)
+   - Compliance review - consumer lending
+   - Compliance monitoring - Clean Desk reviews
+   - Compliance - HR policies policy violations
+   - Compliance with regulations (various investment-related regulations)
+   - Compliance and quality assurance - customer complaints
+   - Compliance with FINRA Rule 15c2-11
+   - Compliance Program for Conduct Risk
+   - Compliance - regulatory - FCRA
+   - Policy Adherence - Compliance Program Effectiveness
+   - Regulatory - Trading - Volcker Rules
+
+### 2. **Risk Management and Monitoring**
+   - Information Security Risk Management
+   - Information Management Risk Oversight (IMRO)
+   - Monitoring for regulatory risk exposures, policy exceptions and violations, emerging risks, and incident management
+   - Monitoring KRIs and Operational risk metrics
+   - Monitoring of financial crimes, trading, social media, etc.
+   - Fraud Risk KRIs (authentication transactions, fraud volume)
+   - Financial Crime Risk Management (FCRM)
+   - Third-party risk and application lifecycle management
+   - Consumer Lending - risk appetite, KRI
+   - Operational risk monitoring (discrepancy identification, issue follow-ups)
+   - Conduct risk, COI, Sales practice
+   - Operational Risk Oversight functions
+   - Enterprise functions - Conduct risk oversight
+   - RCSA (Risk and Control Self-Assessment) reporting and QA/QC controls
+   - CIB fraud operational risk
+   - TISRM (Technology and Information Security Risk Management)
+   - Monitoring of High Inherent Risks and Financial and Insurance (F&I) risks
+   - Risk Assessment - PE assessment
+   - Fraud, Fair Lending, Data Management
+   - Policy Exception and Violation Reporting
+   - Conduct risk insights (Global Pre-Clearance system, GPS transactions)
+
+### 3. **Control and Quality Assurance**
+   - Required training monitoring
+   - Control effectiveness monitoring
+   - Control monitoring
+   - Control gap monitoring
+   - Quality Assurance/Quality Control
+   - Quality Assurance related to Enterprise Complaints Management Office (EMCO)
+   - Issue Management Monitoring
+   - Monitoring of code of conduct-related policy violations
+   - RME assessments (breaches, A/QC reports, RMP measures)
+
+### 4. **Policy Management**
+   - Policy exception management
+   - Policy violations (various areas like sales practice, Reg K, anti-competitive restrictions)
+   - Policy Monitoring, Exception, and Violation Reporting
+   - Policy adherence - Consumer Lending & Home Lending
+   - Regulatory policy monitoring - EE0-1 reports (Equal Employment Opportunity Commission)
+   - Policy - emerging risk, IT assets
+   - Policy violation (PV) trending - Employee conduct, ethics
+   - Policy - Operations (Digital Accounts, Credit Cards)
+
+### 5. **Complaints Management**
+   - Complaints management
+   - Complaints program in consumer lending
+   - Complaints Management - compliance monitoring and reporting
+   - Complaints data analysis and monitoring
+   - Complaints oversight (Consumer Lending, etc.)
+
+### 6. **Technology Risk Management**
+   - Technology and Information Security Risk Management (TISRM)
+   - Software System and Application Issues
+   - Technology platform/process compliance
+   - Monitoring of IT activities (SLA, ALM)
+   - Technology - Information Security - General monitoring
+   - Technology platform - Independent Risk Management (IRM)
+   - Technology - PCI compliance, security, SDLC
+
+### 7. **Operational Risk**
+   - Operational risk - all aspects (design, third-party, procedures)
+   - Operational Risk - Technology
+   - Operational Risk - Commercial Banking KRIs
+   - ORE - Operational Risk Events (COVID-19, etc.)
+   - Enterprise Wires - Executive results, compliance, quality management
+
+### 8. **Sales Practice and Conduct**
+   - Sales practice compliance and monitoring
+   - Sales practice - conduct risk
+   - Sales practice - Root Cause Analysis
+
+### 9. **Investment and Financial Oversight**
+   - WIM (Wealth and Investment Management) Compliance
+   - WIM Operations - front line engagement
+   - Investment promotional materials review
+   - Investment risk - Sherman/Clayton Act, FCRA, SEC 105
+
+### 10. **Training and HR Compliance**
+   - HR-related activities monitoring
+   - Compliance - HR policies policy violations
+   - Monitoring and training completion (Information Security in India and Philippines)
+
+### 11. **General Monitoring and Reporting**
+   - General monitoring (various departments and processes)
+   - Reporting of data quality issues
+   - Business initiatives review
+   - Regulatory change alerts
+   - Performance metrics - controls, attrition rates, open issues
+   - Internal/external loss events, operational risk events, human error incidentsp
